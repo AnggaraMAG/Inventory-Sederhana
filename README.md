@@ -2,10 +2,14 @@ jawaban Soal nomor 5-7 dirangkup jadi 1 Applikasi disini saya membuat 2 tabel su
 
 
 
-<h2>gambar 1. Halaman Utama applikasi inventory</h2>
+gambar 1. Halaman Utama applikasi inventory.
+
+
 ![halamanutama](https://user-images.githubusercontent.com/51870433/71763825-19165700-2f13-11ea-8976-3bdf01367577.png)
 
 
-<h2>gambar 2. Tambah Data pada Inventory</h2>
+gambar 2. Tambah Data pada Inventory.
+
+
 ![tambahdata](https://user-images.githubusercontent.com/51870433/71763848-64c90080-2f13-11ea-8935-a594f28286c5.png)
 
