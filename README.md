@@ -19,3 +19,5 @@ jawaban Soal nomor 5-7 dirangkup jadi 1 Applikasi disini saya membuat 2 tabel su
 <strong>gambar 4. Hapus Data</strong>
 ![hapus data](https://user-images.githubusercontent.com/51870433/71763875-b6718b00-2f13-11ea-9b09-a08f06b7e0c0.png)
 
+<strong>gambar 5. Tambah Supplier Baru</strong>
+![tambahsupplier](https://user-images.githubusercontent.com/51870433/71763910-5af3cd00-2f14-11ea-8300-0892f5b1ad88.png)
