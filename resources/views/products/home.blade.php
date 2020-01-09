@@ -7,10 +7,10 @@
                 <div class="my-2 float-right">
                     <a href="{{route('products.add')}}" class="btn btn-primary btn-sm">Add Product</a>
                     <a href="{{route('supplier.tambah')}}" class="btn btn-primary btn-sm">Add Supplier</a>
-                </div>
+                </div><br><br>
                 <div class="div">
                     @if (session('success'))
-                                <div class="alert alert-success">{{ session('success') }}</div>
+                                <div class="alert alert-success alert-dismissible fade show">{{ session('success') }}</div>
                     @endif
                 </div>
                 <table class="table table-bordered">
@@ -34,7 +34,7 @@
                                     @csrf
                                     @method('Delete')
                                     <a href="{{route('products.edit',$row->id)}}" class="btn btn-info btn-sm">Edit</a>
-                                    <button class="btn btn-danger btn-sm">Delete</button>
+                                    <button onclick="return confirm('yakin untuk dihapus?')" class="btn btn-danger btn-sm">Delete</button>
                                 </form>
                             </th>
                         </tr>

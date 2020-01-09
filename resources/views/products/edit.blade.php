@@ -23,7 +23,7 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <button type="submit" class="btn btn-primary btn-sm">Edit</button>
+                            <button onclick="return confirm('yakin untuk diubah?')" type="submit" class="btn btn-primary btn-sm">Edit</button>
                         </div>
                     </form>
                 </div>
