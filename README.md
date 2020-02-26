@@ -1,4 +1,4 @@
-jawaban Soal nomor 5-7 dirangkup jadi 1 Applikasi disini saya membuat 2 tabel supplier dan product dimana masing" bisa CRUD dan terimakasih atas soalnya kak, bisa menambah ilmu saya. dan saya berharap bisa menjadian bagian dari Dumbways dimana bisa menjalin silaturahmi sesama programmer menambah pengalaman dan banyak lagi.
+
 
 
 <strong>gambar 1. Halaman Utama applikasi inventory.</strong>
